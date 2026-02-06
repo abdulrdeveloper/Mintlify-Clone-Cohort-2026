@@ -1,4 +1,4 @@
-It is a Mentlify Clone Built using HTML and CSS.
+It is a Mintlify Clone Built using HTML and CSS.
 
 How to Run it on local machine ?
 
